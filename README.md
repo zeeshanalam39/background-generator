@@ -6,10 +6,6 @@ Create CSS gradient background using differnt colors for your webpage. Also allo
 
 ![GitHub Logo](/img/bg-example-img.PNG)
 
-# Demo
-
-![GitHub Logo](/img/bg-demo-gif.gif)
-
 # Cortribution
 
 Pull request are always welcome. 😍
